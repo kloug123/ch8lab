@@ -1,4 +1,5 @@
 #!/bin/bash
+#hello susu
 #this is script backs up a directory of your choice
 #prompt the user for what directory to back up and put in $ANS
 echo -e "what directory do you want to back up? -->\c"
